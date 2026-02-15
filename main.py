@@ -19,7 +19,7 @@ BRANCH_NAME = "main"
 
 # List 1: Titles (Har bar inme se koi ek randomly select hoga)
 TITLES_GRID = [
-    "Aaj kuch unexpected ho gaya…",
+"Aaj kuch unexpected ho gaya…",
 "Mujhe khud yakeen nahi hua",
 "Ye socha nahi tha",
 "Last tak dekhna",
