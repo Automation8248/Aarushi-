@@ -184,7 +184,7 @@ TITLES_GRID = [
 
 # List 2: Captions (Har bar inme se koi ek randomly select hoga)
 CAPTIONS_GRID = [
-    "Bas share karna tha ❤️",
+"Bas share karna tha ❤️",
 "Aap relate karoge",
 "Real moment",
 "No filter",
